@@ -11,6 +11,7 @@ Boost your productivity with this simple Arduino-based phone reminder system. A 
 - [Square Force Sensitive Resistor (FSR)](https://robocraze.com/products/square-force-sensitive-resistor)
 - [Resistor](https://robocraze.com/products/10k-resistor-pack-of-10)
 - [Jumper Wires](https://robocraze.com/products/f2m-jumper-wires-20cm-40pcs)
+- [Arduino cable](https://robocraze.com/products/usb-a-b-cable-3-0-cm)
 
 ## 🎥 Demo Video
 
